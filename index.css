@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.sec1 {
+    background: url(./../HTML/Imagen/parallax1.jpg);
+    background-attachment: fixed;
+}
+
+.sec2 {
+    background: url(./../HTML/Imagen/parallax2.jpg);
+    background-attachment: fixed;
+}
+
+.sec3 {
+    background: url(./../HTML/Imagen/parallax4.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    box-sizing: cover;
+    background-position: center;
+}
+
+.secText {
+    padding: 50px 100px;
+    height: auto;
+}
+
+.secText h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 48px;
+    color: rgb(23, 211, 155);
+}
+
+.secText p {
+    font-size: 18px;
+}
