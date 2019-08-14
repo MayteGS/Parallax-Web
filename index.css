@@ -55,7 +55,7 @@ a {
 
 .container {
     width: 80%;
-    left: 10%;
+    left: 15%;
     margin: 0 auto;
     display: flex;
     top: 30%;
@@ -68,7 +68,7 @@ a {
     color: aqua;
     position: absolute;
     top: 25vh;
-    left: 50%;
+    left: 40%;
     font-size: 40px;
 }
 
